@@ -4,6 +4,11 @@ TYPO3.Neos is ready to run on the appserver.io infrastructure right now.
 
 This description assumes that variable $AS points to the root of the appserver.io AS distribution. By default ```/opt/appserver``` on any Linux or Mac OS X system. 
 
+## Issues
+In order to bundle our efforts we would like to collect all issues regarding this package in [the main project repository's issue tracker](https://github.com/appserver-io/appserver/issues).
+Please reference the originating repository as the first element of the issue title e.g.:
+`[appserver-io/<ORIGINATING_REPO>] A issue I am having`
+
 ## Installation
 
 This possibility assume that you have a working ANT and a global composer installation running on your 
